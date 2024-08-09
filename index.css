@@ -1,0 +1,48 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+    background-color:#d5d4d8;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    background-color:#273549 ;
+    border: 40px solid #1c1c1c;
+    text-align: center;
+    padding: 20px;
+  
+   
+
+}
+
+h1 {
+    font-size: 50px;
+    color: #ecfdf5; ;
+}
+
+span {
+    color: #55f991;
+}
+
+p {
+    color: #ecfdf5;
+    font-size: 20px;
+}
+
+button {
+    margin-top: 40px;
+    padding: 10px 20px;
+    background-color: #10b981;
+    color:#ecfdf5;
+    border-radius: 5px;
+    
+}
+
+#passwordOne, #passwordTwo {
+    margin-top: 40px;
+    
+}
